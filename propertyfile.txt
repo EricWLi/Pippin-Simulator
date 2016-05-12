@@ -1,0 +1,5 @@
+#File locations
+#Wed May 11 20:58:15 EDT 2016
+DataDirectory=E\:/Development/cs140/assignment11/
+ExecutableDirectory=E\:/Development/cs140/assignment11/
+SourceDirectory=E\:/Development/cs140/assignment11/
