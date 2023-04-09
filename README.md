@@ -7,4 +7,4 @@
 
 
 ## Screenshot
-![Pippin](screenshot.png)
+![Pippin](./screenshot.PNG)
